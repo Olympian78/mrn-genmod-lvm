@@ -1,0 +1,12 @@
+*.pdf
+*.png
+desktop.ini
+gm-utils-v2/__pycache__/gmutils_v2 (1).cpython-39.pyc
+gm-utils-v2/__pycache__/gmutils_v2.cpython-39.pyc
+gm-utils-v2/gmutils_v2.egg-info/dependency_links.txt
+gm-utils-v2/gmutils_v2.egg-info/PKG-INFO
+gm-utils-v2/gmutils_v2.egg-info/PKG-INFO (1)
+gm-utils-v2/gmutils_v2.egg-info/SOURCES (1).txt
+gm-utils-v2/gmutils_v2.egg-info/SOURCES.txt
+gm-utils-v2/gmutils_v2.egg-info/top_level.txt
+research/inv-2-published/data/*.csv
