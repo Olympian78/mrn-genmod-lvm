@@ -21,11 +21,11 @@ It is advised that a virtual environment (conda, virtualenv, or the like) be set
 2. Navigate to the root of this repository.
 3. Install the required modules using `pip`:
 ```
-python -m install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 4. Install ```gm-utils-v2```:
 ```
-python -m install -e gm-utils-v2
+python -m pip install -e gm-utils-v2
 ```
 
 ## Project Structure
