@@ -1,4 +1,4 @@
-# `genmod-final`
+# Readme
 This repository contains all of the code used in my MRN 412/422 research project.
 This project was completed towards obtaining a degree in Mechanical Engineering
 at the University of Pretoria.
