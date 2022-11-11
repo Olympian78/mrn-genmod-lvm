@@ -1,6 +1,6 @@
 # Readme
 
-The theoretical data and Python code for generating the plots shown in the report.
+The theoretical data and Python code for generating the plots shown in the report. Due to GitHub file size restrictions, the data can be downloaded [https://drive.google.com/drive/folders/1vL-eAvEVqDnwyCpNhdURpz0CI0KQ1vsj?usp=sharing](here)
 
 ## Data Sources:
 
