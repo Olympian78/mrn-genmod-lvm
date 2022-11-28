@@ -11,7 +11,7 @@ at the University of Pretoria.
 **Supervisor**: Prof. D.N. Wilke
 
 ## Setup
-It is advised that a virtual environment (conda, virtualenv, or the like) be set up within which the project requirements can be installed without interfering with existing package installations on the target computer.
+I suggest setting up a virtual environment (conda, virtualenv, or the like) within which the project requirements can be installed without interfering with existing package installations on the target computer.
 
 **Python version used:** 3.9.12
 
