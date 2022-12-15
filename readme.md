@@ -4,7 +4,7 @@ This project was completed towards obtaining a degree in Mechanical Engineering
 at the University of Pretoria.
 
 ## Project Information
-**Topic:** Comparing the Performance of Principal Component Analysis~(PCA) and Independent Component Analysis~(ICA) as Unsupervised Latent Variable Models for Anomaly Detection in Time-Series Signals
+**Topic:** Comparing the Performance of Principal Component Analysis (PCA) and Independent Component Analysis (ICA) as Unsupervised Latent Variable Models for Anomaly Detection in Time-Series Signals
 
 **Name**: Ian de Villiers (18030123)
 
